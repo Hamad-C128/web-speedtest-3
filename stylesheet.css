@@ -1,0 +1,10 @@
+#id{
+    color: red;
+    -ms-transform: rotate(20deg); 
+    transform: rotate(20deg);
+}
+.class{
+    color: red;
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+}
