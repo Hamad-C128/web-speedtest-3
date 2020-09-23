@@ -1,10 +1,10 @@
 #id{
     color: red;
-    -ms-transform: rotate(20deg); 
-    transform: rotate(20deg);
+    font-style: italic;
 }
 .class{
     color: red;
-    transform: rotateY(60deg);
-    transform-style: preserve-3d;
+    font-style: italic;
 }
+/* 
+font-style: italic; */
